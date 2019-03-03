@@ -17,8 +17,8 @@ namespace homework01
             Console.ForegroundColor = ConsoleColor.Yellow;
             System.Console.WriteLine("Hello World!");
             /* 
-             * 1.reset the background color to defalut
-             * 2.reset the foreground color to default
+             * 1.reset the background color to defalut (black)
+             * 2.reset the foreground color to default (white)
              */
             Console.BackgroundColor = ConsoleColor.Black;
             System.Console.WriteLine("Hello World!");
